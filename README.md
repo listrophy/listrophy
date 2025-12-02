@@ -1,16 +1,26 @@
-## Hi there 👋
+# Brad Grzesiak (listrophy)
 
-<!--
-**listrophy/listrophy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quick bio facts
 
-Here are some ideas to get you started:
+* Pronouns: he/him/his
+* Spouse, parent, child, and sibling
+* Astronaut candidate status: rejected
+* Puzzle solving: not bad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Incredibly abbreviated CV
+
+1. Aerospace engineer @ Orbitec (later acquired by Sierra Space, subsidiary of [@sierranevadacorp](https://github.com/sierranevadacorp)): 2004–2009
+2. CEO/CTO/Principal engineer @ [@bendyworks](https://github.com/bendyworks): 2009–2021
+3. Senior engineer @ [@apple](https://github.com/apple): 2021–2023
+4. Principal engineer @ [@fetch-rewards](https://github.com/fetch-rewards)
+5. Principal engineer @ [@target](https://github.com/target)
+
+## Major technology stacks
+
+Alphabetized:
+* iOS/macOS
+* Ruby on Rails, including frontend
+
+## Conference speaking
+
+* yes
